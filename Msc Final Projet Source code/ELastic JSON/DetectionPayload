@@ -1,0 +1,11 @@
+{
+  "rule_name": "{{context.rule.name}}",
+  "description": "{{context.rule.description}}",
+  "severity": "{{context.rule.severity}}",
+  "risk_score": "{{context.rule.risk_score}}",
+  "timestamp": "{{context.alert.start}}",
+  "event_code": "{{context.event.code}}",
+  "host": "{{context.host.name}}",
+  "source": "Elastic Security",
+  "destination": "Tines"
+}
