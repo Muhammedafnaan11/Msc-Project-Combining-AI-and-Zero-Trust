@@ -1,4 +1,4 @@
-# Project Introduction and Workflow Architecture
+AI-Driven SIEM Workflow Automation and Zero-Trust Endpoint Protection for Securing Cloud Supply Chains
 
 ## 1. Introduction
 
